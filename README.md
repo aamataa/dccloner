@@ -2,8 +2,6 @@
 
 A powerful GUI application for cloning Discord servers, built with Python, PyQt5, and discord.py.
 
-# How to download: http://www.mediafire.com/file/cmoi0s64x63ni1i/dccloner.exe
-
 ## Features
 
 - 🖥️ User-friendly graphical interface
