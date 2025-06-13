@@ -42,6 +42,5 @@ pip install discord.py==1.7.3 PyQt5 requests
 - This tool requires administrator permissions on target server
 - Never share your Discord token with anyone
 - Protected servers cannot be cloned
-- Webhook logging is enabled by default
 
 You can copy this text and save it as README.md or README.txt file for your project. The formatting uses standard Markdown syntax that will work well on GitHub and other platforms.
